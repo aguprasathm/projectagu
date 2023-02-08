@@ -5,8 +5,9 @@ public class B
 	int j;
 	int k;
   
-  public B(int i)
+  public B(int i,int j)
   {
 	  this.i=i;
+	  this.j=j;
   }
 }
